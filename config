@@ -26,9 +26,7 @@ window-inherit-working-directory = true
 window-save-state = always
 
 # COPY操作
-copy-on-select = true
-clipboard-read = allow
-clipboard-write = allow
+copy-on-select = clipboard
 
 # キーバインド設定
 #  Cmd+Enter で「下に」分割
