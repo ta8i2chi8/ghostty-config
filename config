@@ -41,3 +41,6 @@ keybind = cmd+shift+up=resize_split:up,20
 keybind = cmd+shift+down=resize_split:down,20
 #  Cmd + W で現在の「ペイン（分割）」を閉じる
 keybind = cmd+w=close_surface
+
+# icon設定
+macos-icon-frame = plastic
