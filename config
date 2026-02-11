@@ -19,6 +19,12 @@ macos-titlebar-style = tabs
 macos-option-as-alt = true
 mouse-hide-while-typing = true
 
+# 画面分割したときにpathが引き継ぐ
+window-inherit-working-directory = true
+
+# 起動時に前の作業フォルダを引き継ぐ
+window-save-state = always
+
 # COPY操作
 copy-on-select = true
 clipboard-read = allow
